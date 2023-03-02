@@ -22,7 +22,7 @@
                                 <color key="textColor" red="1" green="0.92941176470588238" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mg4-lR-ODJ">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="batman-image" translatesAutoresizingMaskIntoConstraints="NO" id="mg4-lR-ODJ">
                                 <rect key="frame" x="76" y="380" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -36,4 +36,7 @@
             <point key="canvasLocation" x="33" y="-27"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="batman-image" width="682.66668701171875" height="682.66668701171875"/>
+    </resources>
 </document>
